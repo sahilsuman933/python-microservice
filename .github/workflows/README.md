@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/sahilsuman933/python-microservice/actions/workflows/devops.yml/badge.svg)](https://github.com/sahilsuman933/python-microservice/actions/workflows/devops.yml)
