@@ -8,7 +8,11 @@ lint:
 	#Make lint
 	pylint --disable=R,C *.py mylib/*.py
 test:
-	#test
+	# Run test
+	python -m pytest -vv --cov=mylib mylib/test_logic.py
+
+build:
+	#build container
 
 deploy:
 	#deploy
